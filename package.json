@@ -1,0 +1,17 @@
+{
+  "name": "humanly-date",
+  "version": "1.0.0",
+  "description": "Convert any date to a human-readable time difference like '2 hours ago' or '1 min remaining'",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "keywords": [
+    "date",
+    "human-readable",
+    "timeago",
+    "relative-time",
+    "time-diff",
+    "remaining-time"
+  ],
+  "author": "Gaurab Paudyal<paudyal.gaurab11@gmail.com>",
+  "license": "MIT"
+}
