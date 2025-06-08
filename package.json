@@ -1,6 +1,6 @@
 {
-  "name": "@grbpdl/humanly-date",
-  "version": "1.0.1",
+  "name": "@gaurabpaudyal/humanly-date",
+  "version": "1.0.2",
   "description": "Convert any date to a human-readable time difference like '2 hours ago' or '1 min remaining'",
   "main": "index.js",
   "types": "index.d.ts",
