@@ -12,6 +12,18 @@
     "time-diff",
     "remaining-time"
   ],
-  "author": "Gaurab Paudyal<paudyal.gaurab11@gmail.com>",
-  "license": "MIT"
+  "author": "grbpdl <paudyal.gaurab11@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grbpdl/humanly-date-npm-package.git"
+  },
+  "homepage": "https://github.com/grbpdl/humanly-date-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/grbpdl/humanly-date-npm-package/issues"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
 }
